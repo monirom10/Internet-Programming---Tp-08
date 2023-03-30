@@ -1,0 +1,20 @@
+.container-login{
+    width: 480px;
+    height: 450px;
+    /* background-color: gray; */
+    padding: 20px 30px;
+    border: 2px solid rgba(129, 124, 124, 0.616);
+}
+.container-login .image{
+    width: 170px;
+    height: 170px;
+}
+.container-login img{
+    width: 100%;
+    height: 100%;
+    left: 30%;
+}
+.text{
+    position: relative;
+    left: 160%;
+}

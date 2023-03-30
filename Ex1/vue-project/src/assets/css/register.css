@@ -1,0 +1,16 @@
+.container-register{
+    width: 480px;
+    height: 600px;
+    /* background-color: gray; */
+    padding: 15px 30px;
+    border: 2px solid rgba(129, 124, 124, 0.616);
+}
+h1{
+    font-size: 25px;
+}
+.horizontal{
+    margin-top: -13px;
+}
+.button{
+    width: 150px;
+}
